@@ -3,7 +3,6 @@ name = input("Enter Your Name: ");
 
 print(f"Good Morning Mr. {name}")
 
-
 user = input("Enter Your Name: ");
 date = input("Enter the date")
 
